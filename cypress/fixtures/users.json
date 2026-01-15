@@ -1,0 +1,17 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidUser": {
+    "username": "wrong_user",
+    "password": "wrong_pass"
+  },
+  "standardUser": {
+    "firstName": "Salina",
+    "lastName": "Dangol",
+    "postalCode": "44600"
+  }
+}
+
+
